@@ -1,0 +1,16 @@
+Build Order
+
+10 – Supply Depot
+12 – Barracks
+12 – Refinery
+15 – Orbital Command
+15 – Reaper
+16 – 2nd Barracks
+17 – Supply Depot
+@100% Reaper, start Tech lab and 3rd Barracks
+@100% Tech lab, start Stimpack Research
+@50 Gas, start Reactor on 2nd Barracks
+Constant Marine production
+@100% 3rd Barracks, start Tech lab on 3rd Barracks and Concussive Shells
+Constant Marauder production out of both Tech labs
+Attack your opponent when Stimpack finishes (@6:50ish) with around 10 Marines, 5 Marauders, and a Reaper.
