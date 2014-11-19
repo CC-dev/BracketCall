@@ -31,16 +31,19 @@ Abre também, depois havemos de testar
 https://www.twilio.com/ - Este deve ser fixe!!
 
 
----Layout Página
+---Layout Página (Fazes de webdisigner??)
 
----Implementação Registos para BD
+---Modulo de Registos para BD
+-Equipas
+-User
+-Torneio
 
----Apresentação de Torneio(s)
+---Modulo Apresentação de Torneio(s)
 
----Enviar SMS
+---Modulo Enviar SMS
 -Aviso equipas para jogar
 
 -Update de resultados
 
-
+----Precisas de me dar acesso ao bracket dentro do server :P para poder ter acesso à BD!!
 ???? tá a escapar-me alguma coisa? Se achares que falta ou está mal organizado, muda aí á vontade!!
