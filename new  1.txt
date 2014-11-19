@@ -1,0 +1,46 @@
+Tasks:
+
+---BD para inscrição de equipas:
+
+--Equipa:
+Nome Equipa
+ID
+Nr Telm
+
+--Users: (podemos criar users para serem notificados por sms na actualização de resultados)
+Nome
+Nick
+ID
+Nr Telm
+
+--Torneios: (Para mantermos historico, não sei ainda se o challonge faz ou assim..)
+Nome
+Jogo
+ID
+Data
+NumJogadores
+Vencedor
+
+---API Challonge 
+http://api.challonge.com/v1
+Abrir conta
+Sozeck - Sozeck@gmail.com
+Abre também, depois havemos de testar
+
+---Escolher SMS sender
+https://www.twilio.com/ - Este deve ser fixe!!
+
+
+---Layout Página
+
+---Implementação Registos para BD
+
+---Apresentação de Torneio(s)
+
+---Enviar SMS
+-Aviso equipas para jogar
+
+-Update de resultados
+
+
+???? tá a escapar-me alguma coisa? Se achares que falta ou está mal organizado, muda aí á vontade!!
