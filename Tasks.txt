@@ -2,14 +2,14 @@ Tasks:
 
 ---BD para inscrição de equipas:
 
---Equipa:
-Nome Equipa
-ID
-Nr Telm
-
 --Users: (podemos criar users para serem notificados por sms na actualização de resultados)
 Nome
 Nick
+ID
+Nr Telm
+
+--Equipa: (tem de ter pelo menos um user)
+Nome Equipa
 ID
 Nr Telm
 
